@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_height="wrap_content"
+     android:layout_width="wrap_content">
+
+<item android:id="@+id/bottom_cinema"
+    android:title="Кинотеатры"
+    android:icon="@drawable/ic_round_theaters_24px"
+
+    />
+<item android:id="@+id/bottom_films"
+    android:title="Фильмы"
+    android:icon="@drawable/ic_round_movie_24px"/>
+
+
+</menu>
